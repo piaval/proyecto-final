@@ -1,0 +1,71 @@
+h1{
+    margin: center;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.contenedor{
+    content: 100px; 
+    height: 50;
+} 
+
+img{
+
+    justify-content: center;
+}
+body{
+    background-color:#F5F5DC;
+    color: black;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+article p{
+    
+    font-weight: 300;
+    padding-left: 80px;
+    padding-right: 100px;
+
+}
+
+footer{
+    margin: 0%;
+    font-size: 15px; 
+    text-align: center;
+    image-rendering: auto;
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+    background-color:#6C757D;
+   
+
+}
+
+.imagencv{
+    text-align: center;
+}
+
+/* .contenedorDatos{
+    display: flex;
+    flex-direction: row;
+} */
+
+footer a {
+    padding: 5px;
+}
+
+.tituloPersonal{
+    font-weight: 600;
+    color: darkblue;
+}
+.descripcionPersonal{
+    color: #fff;
+}
+.tituloSeccion{
+    font-weight: 600;
+}
+
+h3{
+    font-weight: 600;
+}

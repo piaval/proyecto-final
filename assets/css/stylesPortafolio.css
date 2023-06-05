@@ -1,0 +1,13 @@
+body{
+    background-color:#fff;
+    color: black;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+h1{
+    margin: center;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 500;
+}
